@@ -26,10 +26,7 @@ path of logic code:
 
 ## API
 
-Example input/output
-from [https://fetch-hiring.s3.us-east-1.amazonaws.com/points.pdf](https://fetch-hiring.s3.us-east-1.amazonaws.com/points.pdf):
-
-Accepts the following HTTP requests:
+HTTP requests:
 
 | Method | API                        | Desc                                          | request                                                                    | response                                                                                                                     |
 |--------|----------------------------|-----------------------------------------------|----------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
